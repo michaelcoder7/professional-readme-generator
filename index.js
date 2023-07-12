@@ -7,7 +7,7 @@ const questions = require("./utils/questions");
 // function to write the completed README file
 function writeToFile(markdown) {
   fs.writeFile("readme.md", markdown, (err) =>
-    err ? console.log(err) : console.log("Successfully created index.html!")
+    err ? console.log(err) : console.log("Successfully created index.js!")
   );
 }
 
