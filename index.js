@@ -3,18 +3,16 @@ const fs = require("fs");
 const path = require("path");
 const inquirer = require("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown");
-
-// TODO: Create an array of questions for user input
 const questions = require("./utils/questions");
 
-// TODO: Create a function to write README file
+// function to write the completed README file
 function writeToFile(markdown) {
   fs.writerFile("readme.md", markdown, (err) =>
-    err ? console.log(err) : console.log("Successfully created index.html")
+    err ? console.log(err) : console.log("Successfully created index.html!")
   );
 }
 
-// TODO: Create a function to initialize app
+// Initialize and run app
 function init() {
   inquirer.prompt(questions).then((answers) => {
     const markdown = generateMarkdown(answers);
@@ -23,5 +21,5 @@ function init() {
   });
 }
 
-// Function call to initialize app
+// To Kick off the application
 init();
