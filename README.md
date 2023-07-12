@@ -25,17 +25,17 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents<br>
 THEN I am taken to the corresponding section of the README<br>
 
-## Activities carried out
+## Activities and Important Information carried out
+
+Generated readme.md file in 'Main' folder and all lowercase
+
+Link to the video of the sample readme file generation added to this discriptive README
 
 Package-lock.json file was generated
 
 Code for generating markdown file was written
 
 Seperate file for questions was made and implemented into index.js file
-
-Generated readme.md file in 'Main' folder and all lowercase
-
-Link to access the video of readme file generation added
 
 ## Link to Walkthrough Video
 
