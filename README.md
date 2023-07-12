@@ -32,6 +32,8 @@ code for generating markdown file was written
 
 seperate file for questions was made and implemented into index.js file
 
+link to access the video of readme file generation added
+
 ## Link to Walkthrough Video
 
 https://watch.screencastify.com/v/KkwhPZtXJTqw3xO6O3F7
