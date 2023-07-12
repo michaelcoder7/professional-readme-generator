@@ -24,4 +24,14 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
+## Activities carried out
+
+package-lock.json file was generated
+
+code for generating markdown file was written
+
+seperate file for questions was made and implemented into index.js file
+
 ## Link to Walkthrough Video
+
+https://watch.screencastify.com/v/KkwhPZtXJTqw3xO6O3F7

@@ -1,4 +1,5 @@
 # Readme Generator
+
 ![GitHub license](https://img.shields.io/badge/license-undefined-blue.svg)
 
 ## Description
@@ -7,17 +8,17 @@ Generates Readme
 
 ## Table of Contents
 
-*[Installation] (#installation)
+\*[Installation] (#installation)
 
-*[Usage] (#usage)
+\*[Usage] (#usage)
 
-* [License] (#license)
+- [License] (#license)
 
-* [Contributing] (#contributing)
+- [Contributing] (#contributing)
 
-* [Tests] (#tests)
+- [Tests] (#tests)
 
-* [Questions] (#questions)
+- [Questions] (#questions)
 
 ## Installation
 
@@ -32,7 +33,7 @@ npm i
 N/A
 
 ## License
-    
+
 This project is licensed under the undefined license.
 
 ## Contributing
@@ -50,4 +51,3 @@ npm test
 ## Questions
 
 If you have any questions about the repo, open an issue or contact me directly at michael@bootcamp.com. You can find more of my work at [michaelcoder7](https://github.com/michaelcoder7/).
-
